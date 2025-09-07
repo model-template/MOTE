@@ -1,0 +1,17 @@
+numpy
+torch
+torchvision
+scikit-learn
+matplotlib
+seaborn
+pandas
+joblib
+opencv-python
+tqdm
+scipy
+termcolor
+loguru
+torchshard
+insightface
+facenet-pytorch
+optuna
